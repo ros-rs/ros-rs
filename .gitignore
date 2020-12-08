@@ -1,2 +1,9 @@
 ros/target/
 run/
+
+debug/
+target/
+
+**/*.rs.bk
+
+Cargo.lock
